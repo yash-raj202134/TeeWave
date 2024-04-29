@@ -54,7 +54,6 @@ DB_NAME=your_db_name
 
 ## Install dependencies:
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 Set up the MySQL database:
@@ -65,7 +64,6 @@ Adjust any configuration settings in the app.py file to match your setup.
 Usage
 Run the application:
 ```bash
-Copy code
 streamlit run app.py
 ```
 ## Interact with the application: Use the provided user interface to perform various tasks and queries.
@@ -76,5 +74,5 @@ If you encounter any errors, review the application logs for more details on the
 Contributions
 Contributions are welcome! Please submit a pull request with your changes.
 
-License
+## License
 This project is licensed under the MIT License.
