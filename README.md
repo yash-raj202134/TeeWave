@@ -37,7 +37,6 @@ Follow these steps to set up the TeeWave application:
 
 ## Clone the repository:
 ```bash
-Copy code
 git clone <repository_url>
 ```
 ```bash
